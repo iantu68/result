@@ -1,0 +1,8 @@
+gate_0_count: 151950163
+gate_1_count: 121853598
+gate_2_count: 18339546
+gate_3_count: 252909903
+gate_4_count: 88613437
+gate_5_count: 71362536
+gate_6_count: 68561817
+gate_7_count: 23449194
