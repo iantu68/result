@@ -7,7 +7,7 @@ if ! [[ $num =~ ^[0-9]+$ ]]; then
 	exit 1
 fi
 
-for ((i=1; i<=$num; i ++))
+for ((i=0; i<$num; i ++))
 do
 	mkdir "Layer_$i"
 done
